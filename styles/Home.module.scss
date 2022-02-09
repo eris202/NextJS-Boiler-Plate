@@ -1,0 +1,34 @@
+
+$primaryBG: "#4ca800";
+
+
+@font-face {
+    font-family: Manrope;
+    src: url(../public/static/Font/static/Manrope-Regular.ttf);
+  }
+  
+  @font-face {
+    font-family: Manrope Light;
+    src: url(../public/static/Font/static/Manrope-Light.ttf);
+  }
+  @font-face {
+    font-family: Manrope Extra-Light;
+    src: url(../public/static/Font/static/Manrope-ExtraLight.ttf);
+  }
+  @font-face {
+    font-family: Manrope Bold;
+    src: url(../public/static/Font/static/Manrope-Bold.ttf);
+  }
+  @font-face {
+    font-family: Manrope Semi-Bold;
+    src: url(../public/static/Font/static/Manrope-SemiBold.ttf);
+  }
+  @font-face {
+    font-family: Manrope Extra-Bold;
+    src: url(../public/static/Font/static/Manrope-ExtraBold.ttf);
+  }
+  
+
+  body{
+      font-family: Manrope;
+  }
